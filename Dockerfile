@@ -59,6 +59,7 @@ RUN install-php-extensions \
     mysqli \
     imagick \
     intl \
+    zip \
     xsl
 
 # Add the Omeka-S PHP code
